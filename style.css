@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Sevillana&display=swap');
+
+.container{
+    overflow: auto;
+}
+.container img {
+    float: left;
+    margin-right: 20px;
+}
+ul{
+    background: black;
+    padding: 20px;
+}
+li a{
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif
+}
+li{
+    display: inline-block;
+}
+li a:hover{
+    background: #ccc;
+    color: rgb(0, 0, 0);
+}
+.login{
+    float: right;
+}
+.login a:hover{
+    background: orangered;
+    color: white;
+}
+h1{
+    font-family: 'Sevillana';
+}
+h3{
+    font-family: "Nerko One", cursive;
+    background: blanchedalmond; mar
+}
+p{
+    font-family: sans-serif;
+}
+footer{
+    text-align: center;
+    font-family: sans-serif
+}
